@@ -1,6 +1,6 @@
 # iCloud Valid Email Checker
 
-![image](https://raw.githubusercontent.com/alexrony21/iCloud-Valid-Email-Checker/refs/heads/main/icloud_valid_email_checker.png)
+![image](https://raw.githubusercontent.com/thepythoncode97/iCloud-Valid-Email-Checker/refs/heads/main/icloud_valid_email_checker.png)
 
 ## Features
 
